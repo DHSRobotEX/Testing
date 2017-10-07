@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/w3css/3/w3.css">
+<body>
+
+<nav class="w3-bar w3-rgb<248,83,0>">
+  <a href="#Home" class="w3-button w3-bar-item">Home</a>
+  <a href="#Mission" class="w3-button w3-bar-item">Mission</a>
+  <a href="#Team" class="w3-button w3-bar-item">Team</a>
+  <a href="#BEST" class="w3-button w3-bar-item">BEST</a>
+  <a href="#Process" class="w3-button w3-bar-item">Process</a>
+  <a href="#Product" class="w3-button w3-bar-item">Product</a>
+  <a href="#Outreach" class="w3-button w3-bar-item">Outreach</a>
+  <a href="#Sponsors" class="w3-button w3-bar-item">Sponsors</a>
+  <a href="#Contact" class="w3-button w3-bar-item">Contact</a>
+</nav>
+<head>
+<title>RobotEx Inc,</title>
+<img src=Robotexpic/"FINAL LOGO.png" align="left">
+<img src=Robotexpic/"BEST.png" align="middle">
+<img src=Robotexpic/"David.png" align="right">
+</head>
+<body>
+<h1>Our Corporation</h1> 
+<p1>Established in Mobile, Alabama, RobotEx has been a leader in the robotics industry.<br></p1>
+<p2>Initially, as a medical technology provider for BEST Robotics, Inc.,<br></p2> 
+<p3>RobotEx has expanded its enterprise to include a range of industrial and commercial applications.<br></p3> 
+<p4>Our company is dedicated to the delivery of quality products, maintenance of a safe working environment,<br><p4>
+<p5>and continued development as a good corporate citizen.<br></p5>
+<h1> BEST</h1>
+<p1>BEST (Boosting Engineering, Science, Technology) is a non-profit, volunteer-based organization whose mission<br></p1>
+<p2>is to inspire students to pursue careers in engineering, science, and technology through participation in a<br></p2>
+<p3>sports-like, science and engineering-based robotics competition.<br></p3>
+<h1>Our School</h1>
+<p1>Established in 1960, Davidson is a 4- year Highschool, fully accredited by SACS (Southeastern Association of Colleges and Schools).<br></p1> 
+<p2>Davidson offers one of the most comprehensive programs available to students in Mobile, Alabama.<br></p2>
+<p3>It became the first public high school in the county to offer a full-time gifted and Advanced Placement program.<br></p3> 
+</body>
